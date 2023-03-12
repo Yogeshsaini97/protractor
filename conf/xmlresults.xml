@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="18.482">
+ <testsuite name="Login and Home Page" timestamp="2022-08-29T21:46:02" hostname="localhost" time="18.482" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Login and Home Page" name="To verify that error message comes when we keep username and password fields empty and try to login" time="6.153" />
+  <testcase classname="Login and Home Page" name="To verify without clicking on checkbox we are able to login" time="5.037" />
+  <testcase classname="Login and Home Page" name="To verify user is able to login using credentials and keeping checkbox clicked" time="3.817" />
+  <testcase classname="Login and Home Page" name="To verify the customer name is John Doe after login" time="0.08" />
+  <testcase classname="Login and Home Page" name="To verify after clicking on Amount header, values gets displayed in sorted order" time="3.394" />
+ </testsuite>
+</testsuites>
